@@ -1,1 +1,1 @@
-# bike-demand-predictor
+This is just a fun project.
